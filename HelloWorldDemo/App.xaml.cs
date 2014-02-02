@@ -10,8 +10,12 @@ using HelloWorldDemo.Resources;
 
 namespace HelloWorldDemo
 {
+
     public partial class App : Application
     {
+        /**
+         * This totally does something that's worthwhile. Test diff
+         **/
         /// <summary>
         /// Provides easy access to the root frame of the Phone Application.
         /// </summary>
