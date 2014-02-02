@@ -14,7 +14,7 @@ namespace HelloWorldDemo
     public partial class App : Application
     {
         /**
-         * This totally does something that's worthwhile. Test diff2
+         * This totally does something that's worthwhile. Test diff3
          **/
         /// <summary>
         /// Provides easy access to the root frame of the Phone Application.
